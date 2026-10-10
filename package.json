@@ -1,6 +1,6 @@
 {
   "name": "obsidian-quick-access",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Jump to your vault from any app with a global shortcut, and press it again to go back.",
   "main": "main.js",
   "type": "module",

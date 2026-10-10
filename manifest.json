@@ -1,7 +1,7 @@
 {
   "id": "quick-access",
   "name": "Quick Access",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "minAppVersion": "1.7.2",
   "description": "Jump to your vault from any app with a global shortcut, and press it again to go back.",
   "author": "MrVersano",
