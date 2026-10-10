@@ -1,0 +1,10 @@
+{
+  "id": "quick-access",
+  "name": "Quick Access",
+  "version": "1.0.0",
+  "minAppVersion": "1.7.2",
+  "description": "Bring Obsidian to the front from any app with a global shortcut, and press it again to go back.",
+  "author": "MrVersano",
+  "authorUrl": "https://github.com/MrVersano",
+  "isDesktopOnly": true
+}
