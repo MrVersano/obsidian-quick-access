@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+
+- Reword the plugin description to meet the community plugin directory guidelines.
+
 ## 1.0.0
 
 First release.
